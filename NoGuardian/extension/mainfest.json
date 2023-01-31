@@ -1,8 +1,7 @@
-// manifest.json
 {
   "manifest_version": 2,
   "name": "NoGuardian",
-  "version": "1.0",
+  "version": "1.0-pre-2",
   "browser_action": {
     "default_popup": "popup.html"
   },
@@ -10,3 +9,4 @@
     "activeTab"
   ]
 }
+
