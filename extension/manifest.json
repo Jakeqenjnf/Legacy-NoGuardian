@@ -1,0 +1,10 @@
+{
+  // Required
+  "manifest_version": 3,
+  "name": "NoGuardian",
+  "version": "1.0.0",
+}
+
+"permissions": [
+  "activeTab",
+],
