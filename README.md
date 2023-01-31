@@ -6,5 +6,3 @@
 <h5 align=center>Attempts to block or remove GoGuardian from your school chromebook</h5>
 
 <h4>How to Install</h4>
-
-<p>1.) Go to Releases and download the newest stable version.</p>
