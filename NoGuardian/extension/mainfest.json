@@ -1,18 +1,11 @@
 {
-  "manifest_version": 2,
+  // Required
+  "manifest_version": 3,
   "name": "NoGuardian",
-  "version": "1.0",
-  "description": "friendly extension :)",
-  "icons": {
-    "128": "no.png"
-  },
-  "permissions": [
-    "activeTab",
-  ],
-  "browser_action": {
-    "default_icon": "no.png",
-    "default_title": "NoGuardian",
-    "default_popup": "popup.html"
-  }
-  "content_security_policy": "script-src 'self' https://example.com; object-src 'self'"
+  "version": "1.0.0",
 }
+
+"permissions": [
+  "activeTab",
+],
+
