@@ -6,3 +6,20 @@
 <h5 align=center>Attempts to block or remove GoGuardian from your school chromebook</h5>
 
 <h4>How to Install</h4>
+
+1.) Go to the GitHub page and click on Releases.
+![](https://github.com/bensyxx/NoGuardian/blob/main/Screen%20Shot%202023-01-31%20at%206.00.27%20PM.png]
+
+2.) Find the most recent version under the tag "stable".
+
+3.) Click on it and scrool down to Assets, and click on the .zip file.
+![](https://github.com/bensyxx/NoGuardian/blob/main/Screen%20Shot%202023-01-31%20at%206.02.02%20PM.png]
+
+4.) When it finishes downloading, decompress the .zip file. Then, go to chrome://extensions in the Chrome browser, and turn on Developer Mode.
+![](https://github.com/bensyxx/NoGuardian/blob/main/Screen%20Shot%202023-01-31%20at%206.03.01%20PM.png]
+
+5.) Find the button that says "Load Unpacked" and click it. Find the folder from the .zip file. Look for the folder inside that folder that is named "extension" and import it.
+![](https://github.com/bensyxx/NoGuardian/blob/main/Screen%20Shot%202023-01-31%20at%206.04.34%20PM.png]
+
+6.) You should now have NoGuardian installed. Go to your extensions (the puzzle piece on the topbar) and click on it. See if GoGuardian got removed!
+![](https://github.com/bensyxx/NoGuardian/blob/main/Screen%20Shot%202023-01-31%20at%206.04.43%20PM.pngn]
