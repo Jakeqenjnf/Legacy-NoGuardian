@@ -3,7 +3,7 @@
 </p>
 
 <h1>This version of NoGuardian is not maintained anymore.</h1>
-<p>For the new version of NoGuardian, [click here](https://github.com/bensyxx/NoGuardian).
+<p>For the new version of NoGuardian, <a href="https://github.com/bensyxx/NoGuardian">click here</a>.
 
 <h3 align=center>NoGuardian Legacy</h3>
 <h5 align=center>Attempts to block or remove GoGuardian from your school chromebook</h5>
