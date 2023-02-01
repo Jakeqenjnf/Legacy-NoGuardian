@@ -2,7 +2,10 @@
   <img src="https://github.com/bensyxx/NoGuardian/blob/main/NoGuardian/src/NoGuardian.png" length="128" height="128">
 </p>
 
-<h3 align=center>NoGuardian</h3>
+<h1>This version of NoGuardian is not maintained anymore.</h1>
+<p>For the new version of NoGuardian, [click here](https://github.com/bensyxx/NoGuardian).
+
+<h3 align=center>NoGuardian Legacy</h3>
 <h5 align=center>Attempts to block or remove GoGuardian from your school chromebook</h5>
 
 <br><br><a href="#install">Click here to go to the install instructions</a>
